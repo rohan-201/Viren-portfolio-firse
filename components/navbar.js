@@ -78,8 +78,8 @@ export default function Navbar() {
                     id="toprojects"
                     className="transition delay-100 inline-block w-full py-2 mx-0 ml-6 font-medium text-left text-base-700 hover:text-indigo-700 md:ml-0 md:w-auto md:px-0 md:mx-2 lg:mx-3 md:text-center"
                   >
-                    <MdCode className="inline w-5 h-5 md:w-auto md:h-auto" />{" "}
-                    Projects
+                    <MdCode className="inline w-5 h-5 md:w-auto md:h-auto" />
+                    Experience
                   </a>
                   <a
                     href="#contact"
